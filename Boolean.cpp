@@ -32,18 +32,3 @@ int main()
 
     return 0;
 }
-
-
-
-
-
-
-
-
-int No = 11;
-int &X = No;
-int &A = No;
-
-int *p = &
-float Y = 90.90;
-float &Z =
