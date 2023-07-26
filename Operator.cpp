@@ -53,15 +53,3 @@ int main()
 
     return 0;
 }
-
-
-
-
-
-
-Demo operator + (Demo op1, Demo op2)
-{
-
-
-
-}
